@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+    background-image: url(michael-discenza-5omwAMDxmkU-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+a{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
